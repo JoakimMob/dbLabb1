@@ -6,4 +6,6 @@ Labb 1 Databases 2022
 ## Heading level 2
 
 This is a  
-Linebreak
+Line break
+
+This project is an exercise for learning git and markdown.
