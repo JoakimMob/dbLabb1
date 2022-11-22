@@ -9,3 +9,5 @@ This is a
 Line break
 
 This project is an exercise for learning git and markdown.
+
+This is **BOLD**
